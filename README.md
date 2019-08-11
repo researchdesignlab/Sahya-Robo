@@ -26,6 +26,12 @@ Text to Speech : <br/>
 Speech to Text : <br/>
 - [*SpeechRecognition*](https://pypi.org/project/SpeechRecognition/)
 
+## Perspective Viewing
+This code divides the live streaming into three different screens which shows the the Left, Center and Right perspective views.
+#### Pre-Requisites
+- [*cv2*](https://pypi.org/project/opencv-python/)
+- [*numpy*](https://www.numpy.org/)
+
 ---------------------------------------------------------------------------------------------------------------------------------
 
 `Hearty thanks to all the coders and developers for their knowledge, help and support` 
